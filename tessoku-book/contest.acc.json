@@ -29,13 +29,21 @@
       "id": "tessoku_book_c",
       "label": "A03",
       "title": "Two Cards",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_c"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_c",
+      "directory": {
+        "path": "a03",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_d",
       "label": "A04",
       "title": "Binary Representation 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_d"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_d",
+      "directory": {
+        "path": "a04",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_e",
@@ -467,13 +475,21 @@
       "id": "tessoku_book_bz",
       "label": "B01",
       "title": "A+B Problem",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bz"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bz",
+      "directory": {
+        "path": "b01",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_ca",
       "label": "B02",
       "title": "Divisor Check",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ca"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ca",
+      "directory": {
+        "path": "b02",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_cb",

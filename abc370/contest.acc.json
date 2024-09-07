@@ -29,7 +29,11 @@
       "id": "abc370_c",
       "label": "C",
       "title": "Word Ladder",
-      "url": "https://atcoder.jp/contests/abc370/tasks/abc370_c"
+      "url": "https://atcoder.jp/contests/abc370/tasks/abc370_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc370_d",

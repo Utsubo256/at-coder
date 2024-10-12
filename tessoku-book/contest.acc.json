@@ -49,25 +49,41 @@
       "id": "tessoku_book_e",
       "label": "A05",
       "title": "Three Cards",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_e"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_e",
+      "directory": {
+        "path": "a05",
+        "testdir": "tests"
+      }
     },
     {
       "id": "math_and_algorithm_ai",
       "label": "A06",
       "title": "How Many Guests?",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_ai"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_ai",
+      "directory": {
+        "path": "a06",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_g",
       "label": "A07",
       "title": "Event Attendance",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_g"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_g",
+      "directory": {
+        "path": "a07",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_h",
       "label": "A08",
       "title": "Two Dimensional Sum",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_h"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_h",
+      "directory": {
+        "path": "a08",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_i",
@@ -139,13 +155,21 @@
       "id": "tessoku_book_t",
       "label": "A20",
       "title": "LCS",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t",
+      "directory": {
+        "path": "a20",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_u",
       "label": "A21",
       "title": "Block Game",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_u"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_u",
+      "directory": {
+        "path": "a21",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_v",
@@ -495,7 +519,11 @@
       "id": "tessoku_book_cb",
       "label": "B03",
       "title": "Supermarket 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cb"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cb",
+      "directory": {
+        "path": "b03",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_cc",
@@ -579,7 +607,11 @@
       "id": "tessoku_book_cs",
       "label": "B20",
       "title": "Edit Distance",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs",
+      "directory": {
+        "path": "b20",
+        "testdir": "tests"
+      }
     },
     {
       "id": "tessoku_book_ct",

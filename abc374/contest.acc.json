@@ -29,7 +29,11 @@
       "id": "abc374_c",
       "label": "C",
       "title": "Separated Lunch",
-      "url": "https://atcoder.jp/contests/abc374/tasks/abc374_c"
+      "url": "https://atcoder.jp/contests/abc374/tasks/abc374_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc374_d",
